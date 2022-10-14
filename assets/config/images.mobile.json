@@ -1,0 +1,177 @@
+{
+  "pageHeight": 850,
+  "portraitFileName": "Nadja.jpg",
+  "images": [
+    {
+      "fileName": "FrauPortrait.png",
+      "viewPortHeight": 50,
+      "distanceTop": 1500,
+      "distanceLeft": 50,
+      "zIndex": 10,
+      "velocity": 10,
+      "movement": "static"
+    },
+    {
+      "fileName": "hug.png",
+      "viewPortHeight": 30,
+      "distanceTop": 5200,
+      "distanceLeft": 57,
+      "zIndex": 10,
+      "velocity": 15,
+      "movement": "up"
+    },
+    {
+      "fileName": "Marseille_Sky.png",
+      "viewPortHeight": 70,
+      "distanceTop": 3400,
+      "distanceLeft": 0,
+      "zIndex": 8,
+      "velocity": 12,
+      "movement": "up"
+    },
+    {
+      "fileName": "Marseille.png",
+      "viewPortHeight": 50,
+      "distanceTop": 4500,
+      "distanceLeft": 30,
+      "zIndex": 4,
+      "velocity": 25,
+      "movement": "down"
+    },
+    {
+      "fileName": "Pillow.png",
+      "viewPortHeight": 60,
+      "distanceTop": 2700,
+      "distanceLeft": 57.5,
+      "zIndex": 10,
+      "velocity": 40,
+      "movement": "down"
+    },
+    {
+      "fileName": "stayhungry.png",
+      "viewPortHeight": 77.9,
+      "distanceTop": 2050,
+      "distanceLeft": 0,
+      "zIndex": 7,
+      "velocity": 25,
+      "movement": "static"
+    },
+    {
+      "fileName": "Handke.png",
+      "viewPortHeight": 30,
+      "distanceTop": 2700,
+      "distanceLeft": 20,
+      "zIndex": 13,
+      "velocity": 30,
+      "movement": "up"
+    },
+    {
+      "fileName": "verbluehen_color.png",
+      "viewPortHeight": 60,
+      "distanceTop": 3900,
+      "distanceLeft": 10,
+      "zIndex": 10,
+      "velocity": 25,
+      "movement": "down"
+    },
+    {
+      "fileName": "verbluehen_rosa.png",
+      "viewPortHeight": 70,
+      "distanceTop": 5900,
+      "distanceLeft": 5,
+      "zIndex": 20,
+      "velocity": 20,
+      "movement": "up"
+    },
+    {
+      "fileName": "warumliegtmeinherzsoschwerbeieuch.png",
+      "viewPortHeight": 60,
+      "distanceTop": 6100,
+      "distanceLeft": 0,
+      "zIndex": 7,
+      "velocity": 30,
+      "movement": "up"
+    },
+    {
+      "fileName": "Malerei_Frauvonhinten.png",
+      "viewPortHeight": 28,
+      "distanceTop": 7000,
+      "distanceLeft": 66,
+      "zIndex": 7,
+      "velocity": 40,
+      "movement": "up"
+    },
+    {
+      "fileName": "Flower.png",
+      "viewPortHeight": 35,
+      "distanceTop": 2800,
+      "distanceLeft": 74,
+      "zIndex": 7,
+      "velocity": 30,
+      "movement": "down"
+    },
+    {
+      "fileName": "Malerei_Mannvonhinten.png",
+      "viewPortHeight": 30,
+      "distanceTop": 6620,
+      "distanceLeft": 70,
+      "zIndex": 15,
+      "velocity": 20,
+      "movement": "up"
+    },
+    {
+      "fileName": "Marseille_Fussballplatz.png",
+      "viewPortHeight": 60,
+      "distanceTop": 5500,
+      "distanceLeft": 60,
+      "zIndex": 1,
+      "velocity": 35,
+      "movement": "down"
+    },
+    {
+      "fileName": "tuesttresbelle.png",
+      "viewPortHeight": 40,
+      "distanceTop": 5300,
+      "distanceLeft": 60,
+      "zIndex": 16,
+      "velocity": 25,
+      "movement": "up"
+    },
+    {
+      "fileName": "PostIt.png",
+      "viewPortHeight": 80,
+      "distanceTop": 9300,
+      "distanceLeft": 40,
+      "zIndex": 16,
+      "velocity": 20,
+      "movement": "up"
+    },
+    {
+      "fileName": "Megafon_Illu.png",
+      "viewPortHeight": 40,
+      "distanceTop": 6500,
+      "distanceLeft": 0,
+      "zIndex": 2,
+      "velocity": 30,
+      "movement": "static"
+    },
+    {
+      "fileName": "wolken.png",
+      "viewPortHeight": 60,
+      "distanceTop": 7200,
+      "distanceLeft": 55,
+      "zIndex": 4,
+      "velocity": 30,
+      "movement": "static"
+    },
+    {
+      "fileName": "sky.png",
+      "viewPortHeight": 65,
+      "distanceTop": 8000,
+      "distanceLeft": 0.5,
+      "zIndex": 3,
+      "velocity": 32,
+      "movement": "up"
+    }
+  ]
+}
