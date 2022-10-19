@@ -174,9 +174,9 @@
     },
     {
       "fileName": "Malerei_Frauvonhinten.jpg",
-      "viewPortHeight": 50,
-      "distanceTop": 10350,
-      "distanceLeft": 7,
+      "viewPortHeight": 84,
+      "distanceTop": 10300,
+      "distanceLeft": 0,
       "zIndex": 1,
       "velocity": 70,
       "movement": "up"
@@ -202,7 +202,7 @@
     {
       "fileName": "warumliegtmeinherzsoschwerbeieuch.jpg",
       "viewPortHeight": 120,
-      "distanceTop": 12000,
+      "distanceTop": 11890,
       "distanceLeft": 50,
       "zIndex": 2,
       "velocity": 30,
@@ -211,7 +211,7 @@
     {
       "fileName": "monde.jpg",
       "viewPortHeight": 50,
-      "distanceTop": 12400,
+      "distanceTop": 12200,
       "distanceLeft": 5,
       "zIndex": 2,
       "velocity": 100,
@@ -220,16 +220,25 @@
     {
     "fileName": "SchwarzesLoch_weiss.png",
     "viewPortHeight": 3,
-    "distanceTop": 13000,
+    "distanceTop": 12700,
     "distanceLeft": 8,
     "zIndex": 1,
     "velocity": 30,
     "movement": "static"
   },
   {
+    "fileName": "HaHaHa_SchlachthausTheater.jpg",
+    "viewPortHeight": 120,
+    "distanceTop": 13000,
+    "distanceLeft": 10,
+    "zIndex": 1,
+    "velocity": 20,
+    "movement": "up"
+  },
+  {
     "fileName": "Marseille_Fussballplatz.jpg",
-    "viewPortHeight": 150,
-    "distanceTop": 13450,
+    "viewPortHeight": 154,
+    "distanceTop": 14050,
     "distanceLeft": 0,
     "zIndex": 1,
     "velocity": 20,
@@ -238,7 +247,7 @@
   {
     "fileName": "verbluehen_rosa.jpg",
     "viewPortHeight": 100,
-    "distanceTop": 13600,
+    "distanceTop": 14200,
     "distanceLeft": 62,
     "zIndex": 1,
     "velocity": 30,
@@ -247,7 +256,7 @@
   {
     "fileName": "espresso_rosa.png",
     "viewPortHeight": 10,
-    "distanceTop": 14500,
+    "distanceTop": 15100,
     "distanceLeft": 65,
     "zIndex": 1,
     "velocity": 20,
