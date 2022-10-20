@@ -174,7 +174,7 @@
     },
     {
       "fileName": "Malerei_Frauvonhinten.jpg",
-      "viewPortHeight": 84,
+      "viewPortHeight": 75,
       "distanceTop": 10300,
       "distanceLeft": 0,
       "zIndex": 1,
@@ -201,7 +201,7 @@
     },
     {
       "fileName": "warumliegtmeinherzsoschwerbeieuch.jpg",
-      "viewPortHeight": 120,
+      "viewPortHeight": 100,
       "distanceTop": 11890,
       "distanceLeft": 50,
       "zIndex": 2,
@@ -228,7 +228,7 @@
   },
   {
     "fileName": "HaHaHa_SchlachthausTheater.jpg",
-    "viewPortHeight": 120,
+    "viewPortHeight": 100,
     "distanceTop": 13000,
     "distanceLeft": 10,
     "zIndex": 1,
